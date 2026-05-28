@@ -1,0 +1,14 @@
+[project]
+name = "simultaneous-games"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = "~=3.11.0"
+dependencies = [
+    "gymnasium>=1.2.3",
+    "ipykernel>=7.2.0",
+    "lbforaging>=2.0.0",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.3",
+    "pettingzoo>=1.25.0",
+]
